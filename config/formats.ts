@@ -174,6 +174,7 @@ import { Formats as ModernGen2                  } from '../data/mods/moderngen2/
 import { Formats as ModernGen2Birds             } from '../data/mods/moderngen2birds/formats';
 import { Formats as ModernGen3                  } from '../data/mods/moderngen3/formats';
 import { Formats as ModernGen4                  } from '../data/mods/moderngen4/formats';
+import { Formats as MonotypeOrigins             } from '../data/mods/monotypeorigins/formats';
 import { Formats as MonsterHunter               } from '../data/mods/monsterhunter/formats';
 import { Formats as PokemonThrone               } from '../data/mods/pokemonthrone/formats';
 import { Formats as MoreBalancedHackmons        } from '../data/mods/morebalancedhackmons/formats';
