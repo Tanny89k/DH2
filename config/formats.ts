@@ -358,7 +358,7 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 	...Restrictions,
 	...SignatureRestrictions,
 	...Stereotypes,
-
+	
 	///////////////////////////////////////////////////////////////
 	//////////////////////// Solomods /////////////////////////////
 	///////////////////////////////////////////////////////////////
@@ -411,6 +411,7 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 	...MegaMania,
 	...gen1Metronome,
 	...Solopet,
+	...MonotypeOrigins,
 	...gen1Moonside,
 	...Patratdex,
 	...PokemoNorthSouthEastWest,

@@ -83,7 +83,7 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 		name: "Arcana",
 		types: ["Dragon"],
 		baseStats: {hp: 105, atk: 130, def: 70, spa: 130, spd: 70, spe: 95},
-		abilities: {0: "Embody Aspect (Dragon)", H: "Truth  Ideals"},
+		abilities: {0: "Embody Aspect (Dragon)", H: "Truth and Ideals"},
 	},
 	vacuum: {
 		num: 1013,
