@@ -240,7 +240,7 @@ export const Abilities: {[k: string]: ModdedAbilityData} = {
 			}
 		}, // Type change handled in conditions.ts
 		flags: {failroleplay: 1, noreceiver: 1, noentrain: 1, notrace: 1, failskillswap: 1, cantsuppress: 1},
-		name: "Truth & Ideals",
+		name: "Truth and Ideals",
 		shortDesc: "Adaptability if holding Draco Plate. Else, secondary type matches held plate.",
 	},
 };
